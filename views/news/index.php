@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
 <body>
+    hello from new-design branch
     <?php foreach ($newList as $newItem): ?>
         <div>
             <h2><a href="#"><?php echo $newItem['title']?></a></h2>
